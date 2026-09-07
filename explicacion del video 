@@ -1,0 +1,48 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMp/89g1CeX4rOPAh39ebkN",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/juansebastian-berrio/colad/blob/main/explicacion%20del%20video%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "S2ARq9VEOaF0"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "El Machine Learning mejora el rendimiento de los sistemas a medida que adquieren experiencia mediante el análisis de datos, apoyándose en enfoques como el aprendizaje por refuerzo, que busca estrategias óptimas mediante recompensas, y el aprendizaje en línea con flujos de datos para una adaptación continua. Su objetivo fundamental es la generalización, logrando clasificar información nueva al medir similitudes, aunque enfrenta desafíos críticos como el sobreajuste, que ocurre cuando modelos demasiado complejos terminan memorizando el ruido; por ello, el proceso se respalda estrictamente en etapas clave de entrenamiento y validación para garantizar su fiabilidad."
+      ],
+      "metadata": {
+        "id": "XsGG4_iJObDQ"
+      }
+    }
+  ]
+}
