@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyM7kBiofH+j9TVjD6yXXvzx",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/juansebastian-berrio/colad/blob/main/kdd\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "El proceso KDD (Knowledge Discovery in Databases o Descubrimiento de Conocimiento en Bases de Datos) transforma grandes volúmenes de datos brutos y desorganizados —el \"caos\" acumulado en miles de millones de registros— en conocimiento estructurado e ideas aplicables, como recomendaciones precisas. En la práctica, este método sigue una jerarquía que va desde los datos simples hasta la información, el conocimiento y la sabiduría. Para lograr esa transformación, el proceso se divide en varias etapas clave: comprender el valor de los datos, identificar sus orígenes y conceptos básicos, aplicar el flujo metodológico de KDD (que incluye filtrado, procesamiento y minería de datos), evaluar los resultados obtenidos para extraer conocimiento real y, finalmente, llevar estos hallazgos a aplicaciones del mundo real y proyecciones futuras. El proceso KDD (Knowledge Discovery in Databases) se enfoca en transformar el \"caos\" de miles de millones de datos desorganizados en conocimi"
+      ],
+      "metadata": {
+        "id": "ku6QkycCXya8"
+      }
+    }
+  ]
+}
